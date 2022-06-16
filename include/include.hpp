@@ -1,5 +1,4 @@
-// Copyright 2021 SovesT
-// Created by SovesT on 14.05.2021.
+// Copyright 2022 a.m.moisenovich@mail.ru
 //
 
 #ifndef INCLUDE_HPP_
@@ -103,7 +102,5 @@ class Inductor : public Element {
     return (p.num * ind);
   }
 };
-
-
 
 #endif  // INCLUDE_HPP_

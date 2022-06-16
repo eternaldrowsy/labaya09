@@ -1,5 +1,4 @@
-// Copyright 2021 SovesT
-// Created by sovest on 14.06.2021
+// Copyright 2022 a.m.moisenovich@mail.ru
 //
 
 #include <gtest/gtest.h>
