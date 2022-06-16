@@ -1,8 +1,8 @@
 // Copyright 2022 a.m.moisenovich@mail.ru
 //
 
-#ifndef INCLUDE_HPP_
-#define INCLUDE_HPP_
+#ifndef INCLUDE_INCLUDE_HPP_
+#define INCLUDE_INCLUDE_HPP_
 
 #include <utility>
 #include <vector>
@@ -103,4 +103,4 @@ class Inductor : public Element {
   }
 };
 
-#endif  // INCLUDE_HPP_
+#endif  // INCLUDE_INCLUDE_HPP_
